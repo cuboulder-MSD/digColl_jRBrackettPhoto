@@ -47,5 +47,6 @@ Size of the digital image including file size.
 Date the item was digitized. Date is: 2009-04-19
 ### Identifier ARK
 Controlled, stable link to the resource.
-
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [J. Raymond Brackett Collection](https://archives.colorado.edu/repositories/2/resources/1259).
 
