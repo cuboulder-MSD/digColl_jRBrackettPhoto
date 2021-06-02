@@ -26,7 +26,7 @@ The institution or repository that holds the resource or where it is available: 
 ### Material
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. Form terms include: photographic paper
 ### Technique
-photography
+Photography
 ### Work Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Relation
